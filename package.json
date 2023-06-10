@@ -1,8 +1,8 @@
 {
-  "name": "better-react-infinite-scroll",
+  "name": "react-lib-starter",
   "license": "MIT",
-  "version": "0.1.5",
-  "description": "Infinite scroll component for react.",
+  "version": "0.0.0",
+  "description": "Starter template for publishing react library to npm.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -40,12 +40,12 @@
     "vite": "^4.3.9"
   },
   "keywords": [
-    "infinite",
-    "scroll",
-    "react"
+    "react",
+    "library",
+    "starter"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Apestein/better-react-infinite-scroll"
+    "url": "https://github.com/Apestein/react-lib-starter"
   }
 }
