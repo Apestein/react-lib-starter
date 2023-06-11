@@ -15,3 +15,5 @@ Create your package in package/index. Then import and test from src/App.
 Run `pnpm changeset` then push to your Github and workflow will create a PR for you to merge. Once you merge, your package will be automatically publish to npm.
 
 Or run `pnpm release` to publish directly from your command line. Remember to login with `npm login` and update version property in package.json.
+
+## Video tutorial from [Matt Pocock](https://www.youtube.com/watch?v=eh89VE3Mk5g)
